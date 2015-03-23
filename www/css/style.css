@@ -90,6 +90,7 @@ Main Components
   position: relative;
   overflow: hidden;
   margin: 3em 0;
+  padding:0;
 }
 .cd-item-wrapper li {
   position: absolute;
@@ -284,7 +285,7 @@ Main Components
 }
 .cd-item-info b, .cd-item-info .cd-price, .cd-item-info .cd-new-price {
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1rem;
 }
 .cd-item-info b {
   float: left;
@@ -354,7 +355,7 @@ Main Components
 }
 @media only screen and (min-width: 768px) {
   .cd-item-info b, .cd-item-info .cd-price, .cd-item-info .cd-new-price {
-    font-size: 1.8rem;
+    font-size: 1.3rem;
 	text-decoration:none;	
   }
 }
