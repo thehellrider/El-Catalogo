@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<agenda>
+	<evento>
+	<titulo>DESCUENTOS DE HASTA EL 50%</titulo>
+	<fecha>2014-03-07 • Viernes - 20h00</fecha>
+	<descripcion>Enrique Males y Patricia Gutiérrez. Homenaje al Día Internacional de la Mujer. Sala de Conciertos Intermedia. Valor $10</descripcion>
+	<foto>evento1.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>NUEVA COLECCIÓN 2015</titulo>
+	<fecha>2014-03-10 • Lunes - 19H30</fecha>
+	<descripcion>Anastasia Landázuri y Erika Guamán. Sala de Recitales y Conferencias. Valor $5</descripcion>
+	<foto>evento2.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>SIGUE NUESTRO CANAL DE YOUTUBE</titulo>
+	<fecha>2015-03-11 • 19H30</fecha>
+	<descripcion>Sofía Sosa. Sala de Recitales y Conferencias. Valor $5</descripcion>
+	<foto>evento3.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>AGOSTO MES DE LAS ARTES</titulo>
+	<fecha>2014-03-12 • Miércoles - 19h30</fecha>
+	<descripcion>Diana Gallegos. Sala de Recitales y Conferencias. Valor $5</descripcion>
+	<foto>evento4.jpg</foto>
+	</evento>
+	<evento>
+	<titulo>QUITOFEST 2015</titulo>
+	<fecha>2014-03-17 • Lunes - 19h30</fecha>
+	<descripcion>Carolina Lizarzaburu. Sala de Recitales y Conferencias. Valor $5</descripcion>
+	<foto>evento5.jpg</foto>
+	</evento>	
+</agenda>
