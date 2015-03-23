@@ -34,6 +34,7 @@ Main Components
   width: 90%;
   max-width: 1048px;
   margin: 1.5em auto;
+  padding:0;
 }
 .cd-gallery::after {
   clear: both;
@@ -97,6 +98,7 @@ Main Components
   height: 100%;
   width: 50%;
   opacity: 0;
+  list-style:none;
   /* Force Hardware Acceleration */
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
@@ -159,7 +161,7 @@ Main Components
   .cd-item-wrapper li.move-left,
   .cd-item-wrapper li.move-right {
     /* hide preview items */
-    opacity: 0;
+    opacity: 0.3;
   }
   .cd-item-wrapper li.focus-on-left {
     /* class added to the .selected and .move-right items when user hovers over the .move-left item (item preview on the left) */
